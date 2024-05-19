@@ -1,6 +1,6 @@
 # LuneWeb
 
-LuneWeb uses [Tao](https://github.com/tauri-apps/tao) and [Wry](https://github.com/tauri-apps/wry) to add standard libraries for creating web applications for luau, and runs the application using [Mlua](https://github.com/mlua-rs/mlua) and [Lune](https://github.com/lune-org/lune).
+LuneWeb uses [Tao](https://github.com/tauri-apps/tao) and [Wry](https://github.com/tauri-apps/wry) to add standard libraries for creating web applications for luau, and runs the application using [MLua](https://github.com/mlua-rs/mlua) and [Lune](https://github.com/lune-org/lune).
 
 # To-Do
 
