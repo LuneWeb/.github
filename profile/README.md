@@ -4,13 +4,14 @@ LuneWeb uses [Tao](https://github.com/tauri-apps/tao) and [Wry](https://github.c
 
 # To-Do
 
-- [ ] Add CustomProtocol
+- [ ] * Add CustomProtocol
 - [ ] LuneWeb/LuneWeb-rs#1
 - [x] LuneWeb/LuneWeb-rs#2 ([commit](https://github.com/LuneWeb/LuneWeb-rs/commit/f4e1b3b3afd8f9b48942b633bb7e783954cf3d76))
 - [ ] Move the [custom-aliases](https://github.com/HighFlowey/luneweb/tree/custom-aliases) fork of lune to this organization
 - [ ] Make a fork of lune-std where we can customize the way the `require` function interacts with the file system, we can use that to compile all the scripts and then bundle them with the application
 - [x] Add WebView support for Linux ([commit](https://github.com/LuneWeb/LuneWeb-rs/commit/b7efd57c9be92f78f975007d58d18a140380ebc5))
+- [ ] Better way of managing templates
 - [ ] Documentation repo
 
 > [!NOTE]
-> This To-Do list is for features that could take more than a day to implement
+> '*' means it's required for the next version
