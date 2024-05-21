@@ -1,5 +1,7 @@
 # LuneWeb
 
+LuneWeb is an alternative to electron and tauri, in LuneWeb you can use Luau + Javascript to make cross-platform web based applications!
+
 LuneWeb uses [Tao](https://github.com/tauri-apps/tao) and [Wry](https://github.com/tauri-apps/wry) to add standard libraries for creating web applications for luau, and runs the application using [MLua](https://github.com/mlua-rs/mlua) and [Lune](https://github.com/lune-org/lune).
 
 # To-Do
